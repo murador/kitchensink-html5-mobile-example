@@ -19,7 +19,6 @@ Add this upstream kitchensink-html5-mobile repo
     git pull -s recursive -X theirs upstream master
 
 Then push the repo upstream
-
     git push
 
 That's it, you can now checkout your application at:
